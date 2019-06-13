@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TennisGameTest" tests="27" skipped="0" failures="0" errors="0" timestamp="2019-06-13T06:32:21" hostname="MBP-cua-Nguyen" time="0.051">
+  <properties/>
+  <testcase name="checkAllScores[0]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[1]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[2]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[3]" classname="TennisGameTest" time="0.002"/>
+  <testcase name="checkAllScores[4]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[5]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[6]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[7]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[8]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[9]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[10]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[13]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[14]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[15]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[16]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[18]" classname="TennisGameTest" time="0.002"/>
+  <testcase name="checkAllScores[19]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[20]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[22]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[23]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[24]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[25]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[26]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[27]" classname="TennisGameTest" time="0.002"/>
+  <testcase name="checkAllScores[28]" classname="TennisGameTest" time="0.001"/>
+  <testcase name="checkAllScores[30]" classname="TennisGameTest" time="0.0"/>
+  <testcase name="checkAllScores[32]" classname="TennisGameTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
